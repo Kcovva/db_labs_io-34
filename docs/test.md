@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/Kcovva/db_labs_io-34/main/assets/Lab6/test-content-analize1.png" />
 </div>
 
-## як бачимо, система визначила наявність лише MachineLearning та BigData, оскльки AI відсутня в системі
+## як бачимо, система визначила наявність лише MachineLearning та BigData, оскільки AI відсутня в системі
 ## Додамо AI до системи
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kcovva/db_labs_io-34/main/assets/Lab6/ai-label-add.png" />
