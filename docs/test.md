@@ -47,3 +47,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kcovva/db_labs_io-34/main/assets/Lab6/test-content-labels.png" />
 </div>
+
+тест виконано успішно
+
