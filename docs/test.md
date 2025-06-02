@@ -18,7 +18,8 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kcovva/db_labs_io-34/main/assets/Lab6/test-analize.png" />
 </div>
-## у тексті наявні теги MachineLearning, BigData та AI
+
+у тексті наявні теги MachineLearning, BigData та AI
 
 ## Додамо тестовий контент
 <div align="center">
@@ -29,7 +30,8 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kcovva/db_labs_io-34/main/assets/Lab6/test-content-analize1.png" />
 </div>
-## як бачимо, система визначила наявність лише MachineLearning та BigData, оскільки AI відсутній в системі
+
+як бачимо, система визначила наявність лише MachineLearning та BigData, оскільки AI відсутній в системі
 
 ## Додамо AI до системи
 <div align="center">
