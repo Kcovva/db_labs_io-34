@@ -33,7 +33,7 @@
 
 як бачимо, система визначила наявність лише MachineLearning та BigData, оскільки AI відсутній в системі
 
-## Додамо AI до системи
+## Додамо AI до списку тегів
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kcovva/db_labs_io-34/main/assets/Lab6/ai-label-add.png" />
 </div>
